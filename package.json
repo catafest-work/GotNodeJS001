@@ -1,0 +1,21 @@
+{
+  "name": "gotnodejs001",
+  "version": "1.0.0",
+  "description": "a simple call A.P.I. for got ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "got":"node index.js"
+  },
+  "keywords": [
+    "catafest",
+    "got",
+    "nodejs"
+  ],
+  "author": "catafest,catafest-work",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^13.0.0"
+  },
+  "type":"module"
+}
